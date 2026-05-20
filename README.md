@@ -1,6 +1,7 @@
 # Retail Shelf Monitoring for Planogram Compliance
 This project utilises a two-stage approach for automated planogram compliance detection for densely packed supermarket shelves.
 
+## Project Demonstration & Outputs
 Due to the massive size of the custom synthetic dataset (80GB+) and the resulting model weights, this repository serves as showcase rather than a reproducible environment. 
 
 To see the inference pipeline in action and view the step-by-step visual transformations:
